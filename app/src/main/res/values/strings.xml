@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">login_booking_confirm</string>
+    <string name="login">LOGIN</string>
+    <string name="chilli_chicks">chilli-chicks</string>
+    <string name="order">ORDER</string>
+    <string name="handi_chicks">handi-chicks</string>
+    <string name="butter_chicks">Butter-chicks</string>
+    <string name="chicks_wing">chicks-wing</string>
+    <string name="chicks_pops">chicks-pops</string>
+    <string name="grilled_chicks">grilled-chicks</string>
+    <string name="main_course">MAIN COURSE</string>
+    <string name="starters">STARTERS</string>
+</resources>
